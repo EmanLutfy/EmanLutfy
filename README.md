@@ -2,8 +2,10 @@
 
 <br>
 
-<p>
-<img align="left" src="assets/profile.gif" width="320" hspace="24" />
+<table>
+  <tr>
+    <td valign="middle"><img src="assets/profile.gif" width="320" /></td>
+    <td valign="middle">
 
 ```
 EmanLutfy@github
@@ -14,9 +16,10 @@ EmanLutfy@github
 ⛓️ Into crypto, bots & data terminals
 💫 Languages: Swift, TypeScript, Python
 ```
-</p>
 
-<br clear="left"/>
+</td>
+</tr>
+</table>
 
 <h2 align="center"> 🇳‌🇴‌🇼‌ 🇧‌🇺‌🇮‌🇱‌🇩‌🇮‌🇳‌🇬‌ </h2>
 
