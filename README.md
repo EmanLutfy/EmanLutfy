@@ -7,7 +7,7 @@
   <img src="assets/bio.svg" width="460" hspace="16" />
 </p>
 
-<h2 align="center"> 🇳‌🇴‌🇼‌ 🇧‌🇺‌🇮‌🇱‌🇩‌🇮‌🇳‌🇬‌ </h2>
+<h2 align="center"> NOW BUILDING </h2>
 
 <table>
   <tr>
