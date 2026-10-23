@@ -51,6 +51,18 @@
   </tr>
 </table>
 
+<details open>
+<summary><h2>📊 GitHub Analytics</h2></summary>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EmanLutfy&show_icons=true&rank_icon=github&bg_color=151b23&title_color=f2a65a&icon_color=f2a65a&text_color=e6edf3&ring_color=f2a65a&hide_border=true&border_radius=8" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanLutfy&layout=compact&langs_count=8&bg_color=151b23&title_color=f2a65a&text_color=e6edf3&hide_border=true&border_radius=8" height="180" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=EmanLutfy&background=151b23&ring=f2a65a&fire=f2a65a&currStreakLabel=f2a65a&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=e6edf3&dates=9198a1&stroke=30363d&hide_border=true&border_radius=8" alt="GitHub Streak" />
+</p>
+</details>
+
 <h2 align="center"> 🇨‌🇴‌🇳‌🇹‌🇦‌🇨‌🇹‌ 🇲‌🇪‌ </h2>
 
 <img align="right" src="assets/contact_pic.jpg" width="200" />
@@ -68,8 +80,4 @@
 <a href="https://github.com/EmanLutfy" target="_blank">
   <img src="https://img.shields.io/badge/EmanLutfy-white?style=for-the-badge&logo=github&logoColor=181717&logoSize=auto&labelColor=fbe3cc" alt="GitHub Badge"/>
 </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanLutfy&layout=compact&bg_color=fffaf5&title_color=f2a65a&text_color=5c4a3a&border_color=fbe3cc" alt="Top Langs" />
 </p>
