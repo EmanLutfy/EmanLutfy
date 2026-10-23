@@ -1,11 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=F2A65A&center=true&vCenter=true&width=450&lines=Eman's+page+%F0%9F%AA%BF;honk+honk,+shipping+things)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EmanLutfy&color=f2a65a&style=for-the-badge">
-</p> <br>
+<br>
 
 <p>
-<img align="left" src="assets/profile.gif" width="320" />
+<img align="left" src="assets/profile.gif" width="320" hspace="24" />
 
 ```
 EmanLutfy@github
