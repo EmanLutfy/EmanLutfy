@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=F2A65A&center=true&vCenter=true&width=450&lines=Eman's+page+%F0%9F%AA%BF;honk+honk,+shipping+things)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cutive+Mono&size=24&pause=1000&color=F2A65A&center=true&vCenter=true&width=500&lines=Hi,+Welcome+to+EmanLutfy" alt="Hi, Welcome to EmanLutfy" /></a>
+</p>
 
 <br>
 
