@@ -7,12 +7,12 @@
   <img src="assets/bio.svg" width="460" hspace="16" />
 </p>
 
-<h2 align="center"> NOW BUILDING </h2>
+<h2 align="center"> Now Building </h2>
 
 <table>
   <tr>
     <td valign="top" width="100%">
-      <h3>📸 𝗡𝗼𝘁𝗰𝗵𝗖𝗮𝗺</h3>
+      <h3> 𝗡𝗼𝘁𝗰𝗵𝗖𝗮𝗺</h3>
       <p>
         An instant camera that lives in your MacBook notch. Snap a photo and it
         prints out of the notch like a polaroid.
@@ -22,12 +22,12 @@
         <img src="https://img.shields.io/badge/SwiftUI-white?style=for-the-badge&logo=swift&logoColor=0D96F6&labelColor=fbe3cc" alt="SwiftUI"/>
         <img src="https://img.shields.io/badge/macOS-white?style=for-the-badge&logo=apple&logoColor=000000&labelColor=fbe3cc" alt="macOS"/>
       </p>
-      <p><i>🚧 In progress, coming soon.</i></p>
+      <p><i> In progress, coming soon.</i></p>
     </td>
   </tr>
 </table>
 
-<h2 align="center"> 🇴‌🇹‌🇭‌🇪‌🇷‌ 🇷‌🇪‌🇵‌🇴‌🇸‌ </h2>
+<h2 align="center"> Other Repo </h2>
 
 <table>
   <tr>
@@ -62,22 +62,3 @@
   <img src="https://streak-stats.demolab.com?user=EmanLutfy&background=151b23&ring=f2a65a&fire=f2a65a&currStreakLabel=f2a65a&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=e6edf3&dates=9198a1&stroke=30363d&hide_border=true&border_radius=8" alt="GitHub Streak" />
 </p>
 </details>
-
-<h2 align="center"> 🇨‌🇴‌🇳‌🇹‌🇦‌🇨‌🇹‌ 🇲‌🇪‌ </h2>
-
-<img align="right" src="assets/contact_pic.jpg" width="200" />
-<br>
-
-<p align="center">
-  𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 🪿
-  <br>
-  𝙸 𝚖𝚒𝚐𝚑𝚝 𝚑𝚘𝚗𝚔 𝚋𝚊𝚌𝚔 𝚕𝚊𝚝𝚎, 𝚋𝚞𝚝 𝙸 𝚠𝚒𝚕𝚕 𝚑𝚘𝚗𝚔 𝚋𝚊𝚌𝚔
-  <br>
-  <br>
-</p>
-
-<p align="center">
-<a href="https://github.com/EmanLutfy" target="_blank">
-  <img src="https://img.shields.io/badge/EmanLutfy-white?style=for-the-badge&logo=github&logoColor=181717&logoSize=auto&labelColor=fbe3cc" alt="GitHub Badge"/>
-</a>
-</p>
