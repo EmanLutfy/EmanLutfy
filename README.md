@@ -34,7 +34,7 @@
 <table>
   <tr>
     <td valign="top">
-      <h3>⛓️ 𝗢𝗻-𝗰𝗵𝗮𝗶𝗻</h3>
+      <h3> 𝗢𝗻-𝗰𝗵𝗮𝗶𝗻</h3>
       <ul>
         <li><a href="https://github.com/EmanLutfy/nft-public-mint">𝐧𝐟𝐭-𝐩𝐮𝐛𝐥𝐢𝐜-𝐦𝐢𝐧𝐭</a>: CLI for public SeaDrop NFT mints</li>
         <li><a href="https://github.com/EmanLutfy/fomo-api">𝐟𝐨𝐦𝐨-𝐚𝐩𝐢</a>: backend for an on-chain data terminal</li>
@@ -42,7 +42,7 @@
       </ul>
     </td>
     <td valign="top">
-      <h3>🤖 𝗕𝗼𝘁𝘀 & 𝗳𝘂𝗻</h3>
+      <h3> 𝗕𝗼𝘁𝘀 & 𝗳𝘂𝗻</h3>
       <ul>
         <li><a href="https://github.com/EmanLutfy/bottwiiter">𝐛𝐨𝐭𝐭𝐰𝐢𝐢𝐭𝐞𝐫</a>: X / Twitter bot</li>
         <li><a href="https://github.com/EmanLutfy/twitscrapper">𝐭𝐰𝐢𝐭𝐬𝐜𝐫𝐚𝐩𝐩𝐞𝐫</a>: X / Twitter scraper</li>
@@ -54,7 +54,7 @@
 </table>
 
 <details open>
-<summary><h2>📊 GitHub Analytics</h2></summary>
+<summary><h2> GitHub Analytics</h2></summary>
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EmanLutfy&show_icons=true&rank_icon=github&bg_color=151b23&title_color=f2a65a&icon_color=f2a65a&text_color=e6edf3&ring_color=f2a65a&hide_border=true&border_radius=8" height="180" alt="GitHub Stats" />
