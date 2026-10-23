@@ -5,7 +5,7 @@
 </p> <br>
 
 <p>
-<img align="left" src="assets/profile_pic.jpg" width="240" />
+<img align="left" src="assets/profile.gif" width="320" />
 
 ```
 EmanLutfy@github
