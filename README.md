@@ -2,24 +2,10 @@
 
 <br>
 
-<table>
-  <tr>
-    <td valign="middle"><img src="assets/profile.gif" width="320" /></td>
-    <td valign="middle">
-
-```
-EmanLutfy@github
--------------------------
-🪿 Goose energy
-🛠️ Building small apps & on-chain tools
-📸 Currently on: NotchCam (macOS)
-⛓️ Into crypto, bots & data terminals
-💫 Languages: Swift, TypeScript, Python
-```
-
-</td>
-</tr>
-</table>
+<p>
+  <img src="assets/profile.gif" width="320" />
+  <img src="assets/bio.svg" width="460" hspace="16" />
+</p>
 
 <h2 align="center"> 🇳‌🇴‌🇼‌ 🇧‌🇺‌🇮‌🇱‌🇩‌🇮‌🇳‌🇬‌ </h2>
 

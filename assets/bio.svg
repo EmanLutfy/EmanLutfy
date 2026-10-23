@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="180" viewBox="0 0 460 180">
+  <rect width="460" height="180" rx="8" fill="#151b23"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#e6edf3">
+    <text x="22" y="30">EmanLutfy@github</text>
+    <text x="22" y="52" fill="#f2a65a">-------------------------</text>
+    <text x="22" y="76">🪿 Goose energy</text>
+    <text x="22" y="98">🛠️ Building small apps &amp; on-chain tools</text>
+    <text x="22" y="120">📸 Currently on: NotchCam (macOS)</text>
+    <text x="22" y="142">⛓️ Into crypto, bots &amp; data terminals</text>
+    <text x="22" y="164">💫 Languages: Swift, TypeScript, Python</text>
+  </g>
+</svg>
