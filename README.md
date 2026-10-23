@@ -64,3 +64,7 @@
   <img src="https://streak-stats.demolab.com?user=EmanLutfy&background=151b23&ring=f2a65a&fire=f2a65a&currStreakLabel=f2a65a&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=e6edf3&dates=9198a1&stroke=30363d&hide_border=true&border_radius=8" alt="GitHub Streak" />
 </p>
 </details>
+
+<p align="center">
+  <img src="assets/banner.gif" width="100%" alt="Banner" />
+</p>
